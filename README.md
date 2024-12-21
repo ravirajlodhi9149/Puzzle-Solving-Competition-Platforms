@@ -8,6 +8,8 @@ The **Puzzle-Solving Competition Platforms** is a decentralized blockchain-based
 
 ## Contract Address
 0xee041B30C4bb1C0f41e79d1C12Ce1b415BC57142
+![image](https://github.com/user-attachments/assets/3bef7b35-b8b0-41e2-b044-c1c5083a2dcd)
+
 
 ## Project Vision
 Our vision is to foster a global community of puzzle enthusiasts by creating a fair, engaging, and transparent platform for competitive puzzle-solving. Leveraging blockchain technology, we aim to ensure the integrity of scores and promote a spirit of learning and competition worldwide.
